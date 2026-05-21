@@ -110,3 +110,4 @@ for sentence in adwentures_of_tom_sawer_sentences:
 words = sliv_v_ostannyomu_rechenny.split()
 
 print(len(words))
+print("зміна для пулл реквесту")
